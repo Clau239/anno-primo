@@ -1,1 +1,1 @@
-ciao
+ciao sono Lucignano Claudia ho 20 anni e sono appassionata di informatica e grafica
