@@ -1,1 +1,2 @@
-ciao sono Lucignano Claudia ho  20 e sono appassionata di informatica e grafica ho scelto NTA per sperimentare nuove tecniche di comunicazione sia grafiche e informatiche.... sono diplomata in grafica e comunicazione.
+Ciao sono Claudia Lucignano ho 20 anni, e sono una appassionata di grafica e informatica ho scelto NTA per sperimentare nuove tecniche di grafica e informatica 
+![](img/avatar.png) 
